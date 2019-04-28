@@ -1,0 +1,18 @@
+ HasciiCam is being developed and mantained by:
+# denis roio aka jaromil http://rastasoft.org
+
+ people who contributed to the hasciicam project:
+# jan hubicka and the aalib crew - the asci rendering library
+# gerd knorr - grab was inspired by his webcam sourcecode
+# mathop aka josto - help on css with style
+# august black - hacks for iomegabuz
+# boffh - hacks for usb cams
+# martin guy - karma to avoid buffer overflows
+# rat - text dump
+# pbm & megabug - watching ascii horizons
+# rapid - security and bugfixes
+# alessandro preite martinez - sgi irix support (0.9)
+# thomas pfau - ftp library
+# blended - wider webcam support
+# dan stowell - v4l2 api support
+
